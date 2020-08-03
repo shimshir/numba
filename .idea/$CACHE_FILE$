@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Desktop/zenhomes_task_2_admir/zenhomes" value="PREVIEW" />
+        <entry key="$USER_HOME$/projects/springer/oasis-psa" value="PREVIEW" />
+        <entry key="$USER_HOME$/projects/springer/sprcom-alerts/services/alerts" value="PREVIEW" />
+        <entry key="$USER_HOME$/projects/springer/sprcom-alerts/services/citations-alert" value="PREVIEW" />
+        <entry key="$USER_HOME$/projects/springer/sprcom-alerts/services/toc-alert" value="PREVIEW" />
+        <entry key="$USER_HOME$/projects/springer/sprcom-sgw" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+</project>
