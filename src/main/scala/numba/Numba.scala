@@ -80,15 +80,15 @@ object Numba {
   }
 
   def fromBase10(number: BigInt, numeralSets: Seq[NumeralSet]): Numba = {
-    val maxBase10NumberPossible =
+/*    val maxBase10NumberPossible =
       numeralSets.map(ns => BigInt(NumeralSet.base(ns))).product
     if (maxBase10NumberPossible < number) {
       throw new IllegalArgumentException(
         s"base10 number: $number is too large for given numeral sets, maximal number is: $maxBase10NumberPossible"
       )
-    } else {
+    } else {*/
       fromBase10(number, numeralSets, 0, Nil)
-    }
+    /*}*/
   }
 
   @tailrec
